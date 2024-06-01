@@ -1,7 +1,7 @@
 baseURL: https://gowrapavan.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Gowra Pavan Kumar"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Gowra's Blog"
     weight: 1
   bn:
     languageCode: bn
@@ -63,7 +63,7 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
+    main: /images/site/favicon.png
     inverted: /images/site/inverted-logo.png
     favicon: /images/site/favicon.png
 

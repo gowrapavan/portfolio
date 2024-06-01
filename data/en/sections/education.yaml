@@ -10,26 +10,51 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
+- name: BTech (Bachelor of Technology)
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: Kallam Haranadhareddy Institute of Technology
+    url: "https://khitguntur.ac.in/"
     logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    achieved: 7.2
+    outOf: 10
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: JVD Scholarship Awarded for EAMCET Qualification.
     url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  - title: to be modified.
     url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  - title: to be modified.
     url: "#"
+  extracurricularActivities: #(optional), supports markdown
+  - Proficient in Python and C programming languages, with a focus on advanced data structures and algorithms.
+  - Competent in web development, specializing in front-end technologies like HTML, CSS, and JavaScript, with experience in building dynamic web applications.
+  custonSections: #(optional)
+    - name: Thesis
+      content: to be modified.
+    - name: Supervisor
+      content: to be modified.
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Data Structures and Algorithm
+      achieved: 3.75
+      outOf: 4
+    - name: Network Security
+      achieved: 3.80
+      outOf: 4
+    - name: Operating System
+      achieved: 3.5
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 3.75
+  
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016

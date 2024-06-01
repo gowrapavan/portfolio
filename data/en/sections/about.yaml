@@ -11,26 +11,26 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: KHIT.
+  url: "https://khitguntur.ac.in/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-
+summary: |
+  I’m passionate about tech and love diving into programming languages like C and Python. I’m also into web development, playing around with HTML, CSS, and JavaScript to build cool stuff online.
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "218x1a1227@khitguntur.ac.in"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/gowrapavan"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,11 +38,11 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "www.linkedin.com/in/gowra-pavan-kumar-154250302"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://x.com/pavangowra1504"
 
 - name: Facebook
   icon: "fab fa-facebook"
