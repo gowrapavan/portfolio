@@ -1,6 +1,6 @@
-baseURL: https://gowrapavan.github.io
+baseURL: https://gowra.netlify.app
 
-languageCode: bn
+languageCode: en
 title: "Gowra Pavan Kumar"
 
 # Use Hugo modules to add theme
