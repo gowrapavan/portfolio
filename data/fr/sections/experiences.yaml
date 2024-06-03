@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Vos expériences
+experiences:
+- company:
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Succursale de Dhaka
+    logo: /images/sections/experiences/company1.jpg
+    # Peut afficher facultativement un logo différent pour le thème sombre
+    # darklogo: /images/sections/experiences/company1.jpg
+    # Aperçu de l'entreprise
+    overview: Example Co. est une entreprise largement reconnue pour le développement natif du cloud. Elle construit des outils pour Kubernetes.
+  positions:
+  - designation: Ingénieur logiciel senior
+    start: Nov 2019
+    # Ne fournissez pas de date de fin si vous travaillez actuellement là-bas. Elle sera remplacée par "Présent"
+    # end: Dec 2020
+    # Donnez quelques points sur vos responsabilités au sein de l'entreprise.
+    responsibilities:
+    - Concevoir et développer l'outil XYZ pour la tâche ABC.
+    - Concevoir, développer et gérer l'outil de récupération après sinistre [Xtool](https://www.example.com) qui sauvegarde les volumes Kubernetes, les bases de données et les définitions de ressources du cluster.
+    - Diriger l'équipe backend.
+
+  - designation: Ingénieur logiciel junior
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implémenter et tester la fonctionnalité xyz pour l'outil abc.
+    - Soutenir le client pour l'outil abc.
+    - Apprendre la technologie k,d,w pour xyz.
+
+- company:
+    name: PréExemple Co.
+    url: "https://www.example.com"
+    location: Nulle part
+    logo: /images/sections/experiences/company2.jpg
+    # Peut afficher facultativement un logo différent pour le thème sombre
+    # darklogo: /images/sections/experiences/company2.jpg
+    overview: PréExemple Co. est une entreprise passerelle pour entrer dans Example Co. Donc, rien de spécial ici.
+  positions:
+  - designation: Ingénieur logiciel
+    start: Mars 2016
+    end: Mai 2017
+    responsibilities:
+    - Écrire beaucoup de codes d'exemple.
+    - Lire beaucoup d'exemples.
+    - Regarder beaucoup de vidéos d'exemple.
+
+- company:
+    name: Entreprise de comptage de stagiaires (ECS).
+    url: "https://www.example.com"
+    location: Terre de stage
+    logo: /images/sections/experiences/company3.jpg
+    # Peut afficher facultativement un logo différent pour le thème sombre
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: L'entreprise de comptage de stagiaires (ECS) est chargée de compter les ingénieurs stagiaires du monde entier.
+  positions:
+  - designation: Stagiaire
+    start: Juin 2015
+    end: Janv 2016
+    responsibilities:
+    - Compter beaucoup de stagiaires.
+    - Compter plus de stagiaires.
+    - Me compter comme stagiaire.

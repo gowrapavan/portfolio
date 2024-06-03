@@ -1,0 +1,50 @@
+# section information
+section:
+  name: कौशल
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# आपके कौशल.
+# प्रत्येक कौशल के लिए संक्षेप में विवरण दें.
+skills:
+- name: Python
+  logo: /images/sections/skills/py.png
+  summary: "Python में प्रोफिशेंट, जिसमें कोड लिखने, डेटा विश्लेषण करने और जटिल कार्यों को स्वचालित करने के लिए मजबूत कौशल हैं।"
+  url: "https://www.python.org/"
+
+- name: वेब विकास
+  logo: /images/sections/skills/web.png
+  summary: "वेब विकास में अनुभवी, HTML, CSS, और JavaScript का उपयोग करके गतिशील और प्रतिक्रियाशील वेबसाइट बनाने में निपुण और आधुनिक frameworks और उपकरणों का महारत है।"
+  url: "https://github.com/gowrapavan"
+
+- name: गिट
+  logo: /images/sections/skills/git.png
+  summary: "Git आधारित विकास में अनुभवी। अधिकांशत: GitHub का उपयोग करते हैं। GitLab के साथ काम करने में भी अनुभव है।"
+  url: "https://git-scm.com/"
+  
+- name: ह्यूगो
+  logo: /images/sections/skills/hugo.png
+  summary: "Hugo में अनुभवी, तेज और स्केलेबल स्थिर वेबसाइट बनाने में कुशल, जो इसके templating system और markdown syntax का उपयोग करके कार्यक्षम सामग्री प्रबंधन के लिए करता है।"
+  url: "https://gohugo.io/"
+
+- name: आईबीएम परियोजनाएं
+  logo: /images/sections/skills/ibm.png
+  summary: "IBM प्रोजेक्ट्स में, मैं बहु-स्टेज, बहु-वास्तुकला निर्माण प्रक्रियाओं के साथ कार्यक्षमता का प्रदर्शन करता हूँ, जिससे मजबूत और स्केलेबल समाधान सुनिश्चित होता है।"
+  url: "https://skills.yourlearning.ibm.com/learning/completed"
+
+- name: गिटहब
+  logo: /images/sections/skills/gh.png
+  summary: "GitHub में माहिर, इसके संस्करण नियंत्रण और सहयोग सुविधाओं का प्रभावी रूप से उपयोग करके कोड प्रबंधन और टीम समन्वय को सुगम बनाने में।"
+  url: "https://github.com/gowrapavan/"
+
+- name: लिनक्स
+  logo: /images/sections/skills/linux.png
+  summary: "मुख्य ऑपरेटिंग सिस्टम के रूप में उपयोग किया जा रहा है। bash/shell स्क्रिप्ट लिखने में सक्षम हैं।"
+  
+- name: सी++
+  logo: /images/sections/skills/c++.png
+  summary: "सी/सी++ प्रोग्रामिंग के बेसिक ज्ञान है। प्रतियोगिता प्रोग्रामिंग और समस्या समाधान के लिए उपयोग किया गया है।"

@@ -1,0 +1,90 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Vos réalisations
+accomplishments:
+- name: Administrateur Système Linux Foundation
+  timeline: "Mars 2018 - Mars 2019"
+  organization:
+    name: Linux Foundation
+    url: https://www.linuxfoundation.org
+  courseOverview: Ce cours aide à comprendre les concepts clés tels que le réseau, le stockage, la sécurité, la maintenance, le journalisation et la surveillance, le cycle de vie de l'application, le dépannage, les primitives d'objet API, etc. Il aide également à développer la capacité à établir des cas d'utilisation de base pour les utilisateurs finaux.
+  certificateURL: "https://example.com"
+
+- name: Apprentissage Automatique
+  timeline: "Juin 2020 - Janvier 2021"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "Ce cours offre une introduction générale à l'apprentissage automatique, à l'extraction de données et à la reconnaissance de motifs statistiques. Les sujets incluent : (i) L'apprentissage supervisé (algorithmes paramétriques/non paramétriques, machines à vecteurs de support, noyaux, réseaux de neurones). (ii) L'apprentissage non supervisé (regroupement, réduction de la dimensionnalité, systèmes de recommandation, apprentissage profond). (iii) Les meilleures pratiques en matière d'apprentissage automatique (théorie de la variance et du biais ; processus d'innovation en matière d'apprentissage automatique et d'IA)."
+  certificateURL: "https://example.com"
+
+- name: Grokking the System Design Interview
+  timeline: "Janvier 2018 - Septembre 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: Ce cours est un guide complet pour maîtriser les entretiens de conception de systèmes. Il est créé par des responsables du recrutement qui ont travaillé chez Google, Facebook, Microsoft et Amazon. Nous avons soigneusement choisi un ensemble de questions qui ont non seulement été posées à plusieurs reprises dans les meilleures entreprises, mais qui offrent également une expérience approfondie pour traiter tout problème de conception de système.
+  certificateURL: "https://example.com"
+
+- name: Maîtrise de la Programmation Multithreading avec Go (Golang)
+  timeline: "Novembre 2017 - Mars 2018"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Découvrez comment créer des logiciels réactifs et performants. Développez des programmes avec Golang qui sont hautement concurrents et parallèles. Améliorez vos compétences en programmation en Go avec des sujets de programmation multithreading plus avancés.
+  certificateURL: "https://example.com"
+  
+
+  # section information
+# section: 
+#   name: Accomplishments
+#   id: accomplishments
+#   enable: true
+#   weight: 9
+#   showOnNavbar: true
+#   # Can optionally hide the title in sections
+#   # hideTitle: true
+
+
+# Your accomplishments
+# accomplishments: 
+# - name: Linux Foundation System Administrator
+#   timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Linux Foundation
+#     url: https://www.linuxfoundation.org
+#   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+#   certificateURL: "https://example.com"
+
+# - name: Machine Learning
+#   timeline: "Jun 2020 - Jan 2021"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org
+#   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+#   certificateURL: "https://example.com"
+
+# - name: Grokking the System Design Interview
+#   timeline: "Jan 2018 - Sept 2018"
+#   organization:
+#     name: educative
+#     url: https://www.educative.io
+#   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+#   certificateURL: "https://example.com"
+
+# - name: Mastering Multithreading Programming with Go (Golang)
+#   timeline: "Nov 2017 - Mar 2018"
+#   organization:
+#     name: Udemy
+#     url: https://www.udemy.com
+#   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+#   certificateURL: "https://example.com"

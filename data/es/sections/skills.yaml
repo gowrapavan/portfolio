@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Tus habilidades.
+# Proporciona un resumen de cada habilidad en la sección de resumen.
+skills:
+- name: Python
+  logo: /images/sections/skills/py.png
+  summary: "Experto en Python, con habilidades sólidas en escribir código eficiente y mantenible, realizar análisis de datos y automatizar tareas complejas."
+  url: "https://www.python.org/"
+
+- name: Desarrollo Web
+  logo: /images/sections/skills/web.png
+  summary: "Experiencia en Desarrollo Web, experto en crear sitios web dinámicos y receptivos utilizando HTML, CSS y JavaScript, y hábil en el uso de frameworks y herramientas modernas."
+  url: "https://github.com/gowrapavan"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experiencia en desarrollo basado en Git. Principalmente, uso Github. También tengo experiencia en trabajar con GitLab."
+  url: "https://git-scm.com/"
+  
+- name: Hugo
+  logo: /images/sections/skills/hugo.png
+  summary: "Experiencia en Hugo, competente en la creación de sitios web estáticos rápidos y escalables, aprovechando su sistema de plantillas y sintaxis de markdown para una gestión eficiente de contenido."
+  url: "https://gohugo.io/"
+
+- name: Proyectos IBM
+  logo: /images/sections/skills/ibm.png
+  summary: "En proyectos de IBM, demuestro competencia al arquitectar programas con procesos de construcción multietapa y multiarquitectura, asegurando soluciones robustas y escalables."
+  url: "https://skills.yourlearning.ibm.com/learning/completed"
+
+- name: GitHub
+  logo: /images/sections/skills/gh.png
+  summary: "Experto en GitHub, empleando sus funciones de control de versiones y colaboración de manera efectiva para la gestión optimizada de código y coordinación de equipos."
+  url: "https://github.com/gowrapavan/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Usando como sistema operativo principal. Capaz de escribir scripts de bash/shell."
+  
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Conocimientos básicos de programación C/C++. Usado para programación de concursos y resolución de problemas."

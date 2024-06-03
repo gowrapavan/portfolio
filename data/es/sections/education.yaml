@@ -1,0 +1,99 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: BTech (Licenciatura en Tecnología)
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
+  institution:
+    name: Kallam Haranadhareddy Institute of Technology
+    url: "https://khitguntur.ac.in/"
+    logo: /images/sections/education/khit.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/tech_college.png
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.2
+    outOf: 10
+  publications: #(optional)
+  - title: Beca JVD otorgada por la calificación EAMCET.
+    url: "#"
+  - title: por modificar.
+    url: "#"
+  - title: por modificar.
+    url: "#"
+  extracurricularActivities: #(optional), supports markdown
+  - Competente en los lenguajes de programación Python y C, con un enfoque en estructuras de datos y algoritmos avanzados.
+  - Competente en desarrollo web, especializado en tecnologías de front-end como HTML, CSS y JavaScript, con experiencia en la creación de aplicaciones web dinámicas.
+  custonSections: #(optional)
+    - name: Tesis
+      content: por modificar.
+    - name: Supervisor
+      content: por modificar.
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Estructuras de Datos y Algoritmos
+      achieved: 3.75
+      outOf: 4
+    - name: Seguridad de Redes
+      achieved: 3.80
+      outOf: 4
+    - name: Sistema Operativo
+      achieved: 3.5
+      outOf: 4
+    - name: Inteligencia Artificial
+      achieved: 3.75
+  
+- name: Intermedio
+  icon: fa-university
+  timeframe: 2019-2021
+  institution:
+    name: Narayana Junior College
+    url: "#"
+    logo: /images/sections/education/narayana-logo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/university.jpg
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.4
+    outOf: 10  
+  extracurricularActivities: #(optional), supports markdown
+    - Participación en clubes de matemáticas o competiciones para mejorar la comprensión matemática y la pasión.
+    - Mejorar activamente la competencia en los idiomas inglés y sánscrito, utilizando recursos como software de aprendizaje de idiomas y análisis de literatura para mejorar las habilidades lingüísticas.
+    - Participar en el estudio independiente y la experimentación en física y química, explorando conceptos más allá del currículo para profundizar la comprensión y fomentar la curiosidad científica.
+  custonSections: #(optional)
+    - name: Tesis
+      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - name: Supervisor
+      content: Fusce eu augue ut odio porttitor pulvinar.
+
+
+- name: Central Board of Secondary Education
+  icon: fa-school
+  timeframe: 2013-2019
+  institution:
+    name: Dr. Kondabolu Lakshmi Prasad Public School, Guntur
+    url: "#"
+    logo: /images/sections/education/klp-l.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/science_college.png
+  grade: #(optional)
+    scale: GPA
+    achieved: 5
+    outOf: 5
+  extracurricularActivities: #(optional)
+  - En vitae facilisis est, eget porta sem.
+  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  - Duis sed massa feugiat, ornare justo et, aliquam est.
+  - Pellentesque ut fringilla magna.

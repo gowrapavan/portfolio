@@ -1,0 +1,82 @@
+# section information
+section:
+  name: प्रकाशन
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: सभी
+  filter: "all"
+- name: "मशीन लर्निंग"
+  filter: "machinelearning"
+- name: "छवि प्रसंस्करण"
+  filter: "image-processing"
+- name: सुरक्षा
+  filter: "security"
+
+# your publications
+publications:
+- title: मशीन लर्निंग पर एक उदाहरण पत्र
+  publishedIn:
+    name: 2020 आईईईई क्षेत्र संगोष्ठी (TENSYMP)
+    date: 7 जून 2020
+    url: https://example.com
+  authors:
+  - name: डॉ. मैडमैन
+    url: https://example.com
+  - name: डॉ. लेस्माड
+    url: https://example.com
+  - name: डॉ. मोरमैड
+    url: https://example.com
+  - name: डॉ. गुडमैन
+    url: https://example.com
+  paper:
+    summary: वोलुप्टेट इन आईडी आईडी वोलुप्टेट लेबोरिस. मिनिम मोलिट अलिक्यूप सिट अलीक्वा उत एक्सरसिटेशन वोलुप्टेट एस्सीयुड कॉन्सेक्वाट pariatur sunt enim veniam. वेलिट esse tempor laboris anim tempor officia. मैग्ना non labore duis do esse sit do ipsum culpa. officia consequat id non duis culpa dolor. excepteur magna non nostrud cupidatat aute aliqua aliquip.
+    url: https://example.com
+  categories: ["मशीन-लर्निंग","छवि-प्रसंस्करण"]
+  tags: ["मशीन लर्निंग", "स्वायत्त ड्राइविंग", "कंप्यूटर दृष्टि"]
+
+- title: छवि प्रसंस्करण पर एक नमूना पत्र
+  publishedIn:
+    name: 2020 आईईईई क्षेत्र संगोष्ठी (TENSYMP)
+    date: 7 जून 2020
+    url: https://example.com
+  authors:
+  - name: डॉ. मैडमैन
+    url: https://example.com
+  - name: डॉ. लेस्माड
+    url: https://example.com
+  - name: डॉ. मोरमैड
+    url: https://example.com
+  - name: डॉ. गुडमैन
+    url: https://example.com
+  paper:
+    summary: उल्लाम्को मैग्ना मिनिम कपिडाताट लोरेम ea ex aliqua fugiat et. dolor quis cillum ea duis irure et commodo aliquिप consectetur ullam्को labore ut anim nisi. commodo reprehenderit est consectetur tempor adipisicing occaecत exercitation amet do aliquिप dolor do irure. labore officia ut magna pariatur reprehenderit et ex sit sunt. मैग्ना प्रोडेंट उल्लाम्को adipisicing sit.
+    url: https://example.com
+  categories: ["छवि-प्रसंस्करण"]
+  tags: ["छवि प्रसंस्करण", "कंप्यूटर दृष्टि"]
+
+- title: सुरक्षा पर एक उदाहरण पत्र
+  publishedIn:
+    name: 2020 आईईईई क्षेत्र संगोष्ठी (TENSYMP)
+    date: 7 जून 2020
+    url: https://example.com
+  authors:
+  - name: डॉ. मैडमैन
+    url: https://example.com
+  - name: डॉ. लेस्माड
+    url: https://example.com
+  - name: डॉ. मोरमैड
+    url: https://example.com
+  - name: डॉ. गुडमैन
+    url: https://example.com
+  paper:
+    summary: dolor ad cupidatat pariatur nulla ipsum ex ullam्को nisi anim ullam्को. dolore elit esse in exercitation minim aliqua. amet velit incididunt magna laboris. proident reprehenderit deserunt ad officia duis dolor. tempor nostrud ullam्को ullam्को sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+    url: https://example.com
+  categories: ["सुरक्षा"]
+  tags: ["मशीन लर्निंग", "स्वायत्त ड्राइविंग", "मशीन दृष्टि"]

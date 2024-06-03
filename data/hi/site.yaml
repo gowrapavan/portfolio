@@ -1,0 +1,16 @@
+copyright: © 2024 कॉपीराइट.
+disclaimer: "यह थीम MIT लाइसेंस के तहत है। इसलिए, आप इसे गैर-वाणिज्यिक, वाणिज्यिक या निजी उपयोग के लिए उपयोग कर सकते हैं।
+             आप थीम में कोई भी परमिशन की आवश्यकता नहीं है, आप उसे संशोधित या वितरित कर सकते हैं।
+             हालांकि, थीम के लेखक को किसी भी समस्या के साथ कोई गारंटी नहीं दी जाती और थीम के लिए कोई जिम्मेदारी नहीं ली जाती।"
+description: गौरा पवन का पोर्टफोलियो और व्यक्तिगत ब्लॉग।
+customMenus:
+  - name: दस्तावेज़
+    url: https://gowra.netlify.app/posts/
+    hideFromNavbar: false
+    showOnFooter: false
+openGraph:
+  title: गौरा का ब्लॉग
+  type: वेबसाइट
+  description: गौरा पवन का पोर्टफोलियो और व्यक्तिगत ब्लॉग।
+  image: images/author/john.png
+  url: https://gowrapavan.github.io

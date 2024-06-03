@@ -1,0 +1,16 @@
+name: "गौरा पवन कुमार"
+nickname: "गौरा पवन"
+greeting: "नमस्ते, मैं हूँ"
+image: "images/author/dp.jpg"
+contactInfo:
+  email: "gowrapavankumar2004@example.com"
+  phone: "+919642027908"
+  github: gowrapavan
+  linkedin: gowrapavan
+  researchgate: gowra-pavan
+summary:
+  - मैं एक डेवलपर हूँ
+  - मैं एक डेवऑप्स हूँ
+  - मुझे सर्वर्स पसंद हैं
+  - मैं ओपन-सोर्स परियोजनाओं पर काम करता हूँ
+  - मुझे कुछ मजेदार परियोजनाओं पर काम करना पसंद है

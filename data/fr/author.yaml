@@ -1,0 +1,21 @@
+# some information about you
+name: "Gowra Pavan Kumar"
+nickname: "Gowra Pavan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Salut, je suis"
+image: "images/author/dp.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "gowrapavankumar2004@example.com"
+  phone: "+919642027908"
+  github: gowrapavan
+  linkedin: gowrapavan
+  researchgate: gowra-pavan
+
+# some summary about what you do
+summary:
+  - Je suis un développeur
+  - Je suis un DevOps
+  - J'adore les serveurs
+  - Je travaille sur des projets open source
+  - J'aime travailler sur des projets amusants

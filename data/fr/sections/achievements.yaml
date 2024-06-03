@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Réalisations
+  id: achievements
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Best Presenter
+  image: /images/sections/achievements/presenter.jpg
+  summary: Meilleur présentateur lors de la conférence XYZ 2020.
+- title: Champion
+  image: /images/sections/achievements/sport.jpg
+  summary: Championnat cycliste interurbain 2020.
+- title: Graduation
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Diplômé d'un baccalauréat en informatique et en génie de l'université XYZ.
+- title: Award Winner
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: Lauréat du meilleur article à la conférence IEE 2020.

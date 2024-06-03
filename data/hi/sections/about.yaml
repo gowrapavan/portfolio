@@ -1,0 +1,104 @@
+# section information
+section:
+  name: बारे में
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: सॉफ्टवेयर इंजीनियर
+# your company information
+company:
+  name: KHIT.
+  url: "https://khitguntur.ac.in/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: |
+  मुझे तकनीक के प्रति जुनून है और मुझे C और Python जैसी प्रोग्रामिंग भाषाओं में गोता लगाना पसंद है। मैं वेब विकास में भी हूँ, HTML, CSS और JavaScript के साथ खेलकर ऑनलाइन कुछ अच्छा बनाता हूँ।
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "218x1a1227@khitguntur.ac.in"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/gowrapavan"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/gowra-pavan-kumar-154250302"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://x.com/pavangowra1504"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+- name: Mastadon
+  icon: "fab fa-mastodon"
+  url: "#"
+  rel: "me noopener"
+
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/john-doe"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "मेरा रिज्यूमे"
+  url: "files/pavan_resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: प्रमाणित क्यूबर्नेट्स सुरक्षा विशेषज्ञ
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+- type: certification
+  name: आईबीएम क्लाउड क्यूबर्नेट्स सेवा और इस्तियो
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+
+- type: certification
+  name: कृत्रिम बुद्धिमत्ता और मशीन लर्निंग
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: नेतृत्व
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: टीम वर्क
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: मेहनती
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

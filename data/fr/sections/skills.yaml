@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Vos compétences.
+# Donnez un résumé de chacune de vos compétences dans la section résumé.
+skills:
+- name: Python
+  logo: /images/sections/skills/py.png
+  summary: "Maîtrise de Python, avec de solides compétences pour écrire un code efficace et maintenable, effectuer des analyses de données et automatiser des tâches complexes."
+  url: "https://www.python.org/"
+
+- name: Développement Web
+  logo: /images/sections/skills/web.png
+  summary: "Expérimenté en développement web, capable de créer des sites web dynamiques et réactifs en utilisant HTML, CSS et JavaScript, et compétent dans l'utilisation de frameworks et d'outils modernes."
+  url: "https://github.com/gowrapavan"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Expérimenté dans le développement basé sur git. Principalement, j'utilise Github. J'ai également de l'expérience dans le travail avec GitLab."
+  url: "https://git-scm.com/"
+  
+- name: Hugo
+  logo: /images/sections/skills/hugo.png
+  summary: "Expérimenté en Hugo, compétent dans la création de sites web statiques rapides et évolutifs, en tirant parti de son système de modèles et de sa syntaxe de markdown pour une gestion efficace du contenu."
+  url: "https://gohugo.io/"
+
+- name: Projets IBM
+  logo: /images/sections/skills/ibm.png
+  summary: "Dans les projets IBM, je démontre ma compétence en architecturant des programmes avec des processus de construction multi-étapes et multi-architectures, garantissant des solutions robustes et évolutives."
+  url: "https://skills.yourlearning.ibm.com/learning/completed"
+
+- name: Github
+  logo: /images/sections/skills/gh.png
+  summary: "Compétent dans GitHub, en utilisant efficacement ses fonctionnalités de contrôle de version et de collaboration pour une gestion de code rationalisée et une coordination d'équipe."
+  url: "https://github.com/gowrapavan/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Utilisé comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
+  
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Connaissance de la programmation C/C++ de base. Utilisé pour la programmation de concours et la résolution de problèmes."

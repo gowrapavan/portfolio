@@ -1,0 +1,67 @@
+section:
+  name: Sobre mí
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+designation: Ingeniero de software
+company:
+  name: KHIT.
+  url: "https://khitguntur.ac.in/"
+summary: |
+  Estoy apasionado por la tecnología y me encanta sumergirme en lenguajes de programación como C y Python. También me interesa el desarrollo web, jugando con HTML, CSS y JavaScript para construir cosas geniales en línea.
+socialLinks:
+- name: Correo electrónico
+  icon: "fas fa-envelope"
+  url: "218x1a1227@khitguntur.ac.in"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/gowrapavan"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/gowra-pavan-kumar-154250302"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://x.com/pavangowra1504"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+- name: Mastadon
+  icon: "fab fa-mastodon"
+  url: "#"
+  rel: "me noopener"
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/john-doe"
+resourceLinks:
+- title: "Mi CV"
+  url: "files/pavan_resume.pdf"
+badges:
+- type: certification
+  name: Especialista certificado en seguridad Kubernetes
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+- type: certification
+  name: Istio y IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+- type: certification
+  name: Inteligencia artificial y aprendizaje automático
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+- type: soft-skill-indicator
+  name: Liderazgo
+  percentage: 85
+  color: blue
+- type: soft-skill-indicator
+  name: Trabajo en equipo
+  percentage: 90
+  color: yellow
+- type: soft-skill-indicator
+  name: Trabajador duro
+  percentage: 85
+  color: orange

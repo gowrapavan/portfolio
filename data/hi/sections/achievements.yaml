@@ -1,0 +1,24 @@
+# section information
+section:
+  name: उपलब्धियां
+  id: achievements
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements
+achievements:
+- title: सर्वश्रेष्ठ प्रस्तुतकर्ता
+  image: /images/sections/achievements/presenter.jpg
+  summary: 2020 XYZ सम्मेलन में सर्वश्रेष्ठ प्रस्तुतकर्ता।
+- title: चैंपियन
+  image: /images/sections/achievements/sport.jpg
+  summary: 2020 इंटर-सिटी साइकिलिंग चैम्पियनशिप में चैंपियन।
+- title: स्नातक
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: XYZ विश्वविद्यालय से कंप्यूटर साइंस और इंजीनियरिंग में बैचलर ऑफ साइंस (B.Sc.) प्राप्त किया।
+- title: पुरस्कार विजेता
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: 2020 IEE सम्मेलन में सर्वश्रेष्ठ पेपर पुरस्कार जीता।

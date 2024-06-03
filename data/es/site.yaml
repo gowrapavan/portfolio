@@ -1,0 +1,16 @@
+copyright: © 2024 Derechos de autor.
+disclaimer: "Este tema está bajo la licencia MIT. Por lo tanto, puedes usarlo para usos no comerciales, comerciales o privados.
+             Puedes modificar o distribuir el tema sin necesidad de permiso del autor del tema.
+             Sin embargo, el autor del tema no ofrece ninguna garantía ni asume ninguna responsabilidad por ningún problema con el tema."
+description: Portafolio y blog personal de Gowra Pavan.
+customMenus:
+  - name: Documentos
+    url: https://gowra.netlify.app/posts/
+    hideFromNavbar: false
+    showOnFooter: false
+openGraph:
+  title: Blog de Gowra
+  type: sitio web
+  description: Portafolio y blog personal de Gowra Pavan.
+  image: images/author/john.png
+  url: https://gowrapavan.github.io

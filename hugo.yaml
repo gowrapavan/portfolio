@@ -25,11 +25,28 @@ languages:
     languageName: English
     title: "Gowra's Blog"
     weight: 1
+  fr:
+    languageCode: fr
+    languageName: français
+    title: Le blog de Gowra
+    weight: 2
+
+  es:
+    languageCode: es
+    languageName: Español
+    title: "Blog de Gowra"
+    weight: 3
+  
+  hi:
+    languageCode: hi
+    languageName: हिन्दी
+    title: "गौरा का ब्लॉग"
+    weight: 4
   bn:
     languageCode: bn
     languageName: বাংলা
     title: জনের ব্লগ
-    weight: 2
+    weight: 5
 # default language for the content
 defaultContentLanguage: en
 

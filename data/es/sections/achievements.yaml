@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Logros
+  id: achievements
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements
+achievements:
+- title: Mejor Presentador
+  image: /images/sections/achievements/presenter.jpg
+  summary: Mejor presentador en la conferencia XYZ 2020.
+- title: Campeón
+  image: /images/sections/achievements/sport.jpg
+  summary: Campeón en el campeonato interurbano de ciclismo 2020.
+- title: Graduación
+  image: /images/sections/achievements/graduation-cap.jpg
+  summary: Recibió el título de Licenciatura en Ciencias (B.Sc.) en Ciencias de la Computación e Ingeniería de la Universidad XYZ.
+- title: Ganador de Premio
+  image: /images/sections/achievements/woman-winner.jpg
+  summary: Ganó el premio al mejor artículo en la Conferencia IEE 2020.

@@ -1,0 +1,65 @@
+# section information
+section:
+  name: परियोजनाएँ
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: सभी
+  filter: "all"
+- name: पेशेवर
+  filter: "professional"
+- name: शैक्षणिक
+  filter: "academic"
+- name: शौकिया
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Salesforce
+  logo: /images/sections/projects/salesforce.png
+  role: डेवलपर
+  timeline: "मार्च 2023 - 2024"
+  repo: https://github.com/SalesforceCommerceCloud # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: अनुभवी Salesforce वर्चुअल डेवलपर, कस्टम समाधानों और एकीकरणों में कुशल।
+  tags: ["professional", "salesforce", "cloud"]
+
+- name: Tensorflow
+  logo: /images/sections/projects/tensorflow.png
+  role: डेवलपर
+  timeline: "जून 2018 - वर्तमान"
+  repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: सभी के लिए एक ओपन सोर्स मशीन लर्निंग फ्रेमवर्क।
+  tags: ["professional", "machine-learning"]
+
+- name: HUGO
+  role: डिजाइनर
+  timeline: "जनवरी 2024 - वर्तमान"
+  logo: /images/sections/projects/hugo.png
+  url: "https://www.example.com"
+  summary: Hugo में अनुभवी, तेज़ और स्केलेबल स्थैतिक वेबसाइट बनाने में प्रवीण, इसकी टेम्पलेटिंग प्रणाली और कुशल सामग्री प्रबंधन के लिए मार्कडाउन सिंटैक्स का लाभ उठाते हुए।
+  tags: ["web-design","iot"]
+
+- name: Nocode
+  logo: /images/sections/projects/no-code.png
+  role: कुछ नहीं
+  timeline: "अक्टूबर 2019 - दिसंबर 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: सुरक्षित और विश्वसनीय अनुप्रयोग लिखने का सबसे अच्छा तरीका। कुछ भी न लिखें; कहीं भी तैनात न करें।
+  tags: ["hobby", "fun"]
+
+- name: Toha
+  logo: /images/sections/projects/toha.png
+  role: मालिक
+  timeline: "जून 2019 - वर्तमान"
+  repo: https://github.com/hossainemruz/toha
+  summary: व्यक्तिगत पोर्टफोलियो के लिए एक Hugo थीम।
+  tags: ["hobby","hugo","theme","professional"]

@@ -1,0 +1,99 @@
+# section information
+section:
+  name: शिक्षा
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: बीटेक (बैचलर ऑफ टेक्नोलॉजी)
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
+  institution:
+    name: Kallam Haranadhareddy Institute of Technology
+    url: "https://khitguntur.ac.in/"
+    logo: /images/sections/education/khit.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/tech_college.png
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.2
+    outOf: 10
+  publications: #(optional)
+  - title: EAMCET योग्यता के लिए JVD छात्रवृत्ति प्रदान की गई।
+    url: "#"
+  - title: संशोधित किया जाना है।
+    url: "#"
+  - title: संशोधित किया जाना है।
+    url: "#"
+  extracurricularActivities: #(optional), supports markdown
+  - पायथन और सी प्रोग्रामिंग भाषाओं में कुशल, उन्नत डेटा संरचनाओं और एल्गोरिदम पर ध्यान केंद्रित करते हुए।
+  - वेब विकास में कुशल, HTML, CSS और जावास्क्रिप्ट जैसी फ्रंट-एंड तकनीकों में विशेषज्ञता, गतिशील वेब अनुप्रयोगों के निर्माण का अनुभव।
+  custonSections: #(optional)
+    - name: थीसिस
+      content: संशोधित किया जाना है।
+    - name: पर्यवेक्षक
+      content: संशोधित किया जाना है।
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: डेटा संरचनाएं और एल्गोरिदम
+      achieved: 3.75
+      outOf: 4
+    - name: नेटवर्क सुरक्षा
+      achieved: 3.80
+      outOf: 4
+    - name: ऑपरेटिंग सिस्टम
+      achieved: 3.5
+      outOf: 4
+    - name: कृत्रिम बुद्धिमत्ता
+      achieved: 3.75
+  
+- name: इंटरमीडिएट
+  icon: fa-university
+  timeframe: 2019-2021
+  institution:
+    name: Narayana Junior College
+    url: "#"
+    logo: /images/sections/education/narayana-logo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/university.jpg
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.4
+    outOf: 10  
+  extracurricularActivities: #(optional), supports markdown
+    - गणितीय समझ और जुनून को बढ़ाने के लिए गणित क्लबों या प्रतियोगिताओं में भागीदारी।
+    - अंग्रेजी और संस्कृत भाषाओं में दक्षता में सक्रिय रूप से सुधार करना, भाषा सीखने के सॉफ्टवेयर और साहित्य विश्लेषण जैसे संसाधनों का उपयोग करके भाषाई कौशल को बढ़ाना।
+    - भौतिकी और रसायन विज्ञान में स्वतंत्र अध्ययन और प्रयोग में संलग्न होना, पाठ्यक्रम से परे अवधारणाओं का अन्वेषण करना, समझ को गहरा करना और वैज्ञानिक जिज्ञासा को बढ़ावा देना।
+  custonSections: #(optional)
+    - name: थीसिस
+      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - name: पर्यवेक्षक
+      content: Fusce eu augue ut odio porttitor pulvinar.
+
+
+- name: केंद्रीय माध्यमिक शिक्षा बोर्ड
+  icon: fa-school
+  timeframe: 2013-2019
+  institution:
+    name: डॉ. कोंडाबोलु लक्ष्मी प्रसाद पब्लिक स्कूल, गुंटूर
+    url: "#"
+    logo: /images/sections/education/klp-l.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/science_college.png
+  grade: #(optional)
+    scale: GPA
+    achieved: 5
+    outOf: 5
+  extracurricularActivities: #(optional)
+  - इन विटे फसिलिसिस एस्ट, एगेट पोर्टा सेम।
+  - वेस्टिबुलम कॉन्सेक्टेटर लोरम जस्टो, एट लॉरेट लोरम फेउगियाट एट।
+  - डुइस सेड मासा फेउगियाट, ऑर्नारे जस्टो एट, एलिक्वम एस्ट।
+  - पेल्लेंटेस्के उत फ्रिंगिला मैग्ना।

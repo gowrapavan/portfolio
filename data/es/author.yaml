@@ -1,0 +1,16 @@
+name: "Gowra Pavan Kumar"
+nickname: "Gowra Pavan"
+greeting: "¡Hola, soy"
+image: "images/author/dp.jpg"
+contactInfo:
+  email: "gowrapavankumar2004@example.com"
+  phone: "+919642027908"
+  github: gowrapavan
+  linkedin: gowrapavan
+  researchgate: gowra-pavan
+summary:
+  - Soy desarrollador
+  - Soy un DevOps
+  - Amo los servidores
+  - Trabajo en proyectos de código abierto
+  - Me encanta trabajar en proyectos divertidos

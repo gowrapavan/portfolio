@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Salesforce
+  logo: /images/sections/projects/salesforce.png
+  role: Developer
+  timeline: "March 2023 - 2024"
+  repo: https://github.com/SalesforceCommerceCloud # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Développeur Salesforce expérimenté, compétent dans les solutions personnalisées et les intégrations.
+  tags: ["professional", "salesforce", "cloud"]
+
+- name: Tensorflow
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: Un cadre d'apprentissage automatique Open Source pour tout le monde.
+  tags: ["professional", "machine-learning"]
+
+- name: HUGO
+  role: Designer
+  timeline: "Jan 2024 - present"
+  logo: /images/sections/projects/hugo.png
+  url: "https://www.example.com"
+  summary: Expérimenté dans Hugo, compétent dans la création de sites Web statiques rapides et évolutifs, en tirant parti de son système de modèles et de sa syntaxe markdown pour une gestion efficace du contenu.
+  tags: ["web-design","iot"]
+
+- name: Nocode
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: La meilleure façon d'écrire des applications sécurisées et fiables. N'écrivez rien ; ne déployez nulle part.
+  tags: ["hobby", "fun"]
+
+- name: Toha
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: Un thème Hugo pour un portfolio personnel.
+  tags: ["hobby","hugo","theme","professional"]

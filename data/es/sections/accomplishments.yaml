@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Logros
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Administrador de Sistemas de la Fundación Linux
+  timeline: "Marzo 2018 - Marzo 2019"
+  organization:
+    name: Linux Foundation
+    url: https://www.linuxfoundation.org
+  courseOverview: Este curso ayuda a entender los conceptos clave como redes, almacenamiento, seguridad, mantenimiento, registro y monitoreo, ciclo de vida de las aplicaciones, resolución de problemas, objetos API primitivos, etc. También ayuda a desarrollar la capacidad de establecer casos de uso básicos para los usuarios finales.
+  certificateURL: "https://example.com"
+
+- name: Aprendizaje Automático
+  timeline: "Jun 2020 - Ene 2021"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "Este curso ofrece una amplia introducción al aprendizaje automático, la minería de datos y el reconocimiento estadístico de patrones. Los temas incluyen: (i) Aprendizaje supervisado (algoritmos paramétricos/no paramétricos, máquinas de vectores de soporte, kernels, redes neuronales). (ii) Aprendizaje no supervisado (clustering, reducción de dimensionalidad, sistemas de recomendación, aprendizaje profundo). (iii) Mejores prácticas en el aprendizaje automático (teoría de sesgo/varianza; proceso de innovación en aprendizaje automático e IA)."
+  certificateURL: "https://example.com"
+
+- name: Dominando la Entrevista de Diseño de Sistemas
+  timeline: "Ene 2018 - Sept 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: Este curso es una guía completa para dominar las entrevistas de diseño de sistemas. Está creado por gerentes de contratación que han trabajado en Google, Facebook, Microsoft y Amazon. Hemos elegido cuidadosamente un conjunto de preguntas que no solo se han repetido en las principales empresas, sino que también proporcionan una experiencia completa para manejar cualquier problema de diseño de sistemas.
+  certificateURL: "https://example.com"
+
+- name: Dominando la Programación Multihilo con Go (Golang)
+  timeline: "Nov 2017 - Mar 2018"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: Descubre cómo crear software receptivo y de alto rendimiento. Desarrolla programas con Golang que son altamente Concurrentes y Paralelos. Mejora tus habilidades de programación en Go con temas más avanzados de multihilo.
+  certificateURL: "https://example.com"

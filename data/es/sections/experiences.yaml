@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Experiencias
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Sucursal de Dhaka
+    logo: /images/sections/experiences/company1.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: Example Co. es una empresa ampliamente reconocida por el desarrollo nativo de la nube. Construye herramientas para Kubernetes.
+  positions:
+  - designation: Ingeniero de Software Senior
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Diseñar y desarrollar la herramienta XYZ para la tarea ABC.
+    - Diseñar, desarrollar y gestionar la herramienta de recuperación ante desastres [Xtool](https://www.example.com) que realiza copias de seguridad de volúmenes de Kubernetes, bases de datos y la definición de recursos del clúster.
+    - Liderar el equipo de backend.
+
+  - designation: Ingeniero de Software Junior
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implementar y probar la característica xyz para la herramienta abc.
+    - Soporte al cliente para la herramienta abc.
+    - Aprender la tecnología k,d,w para xyz.
+
+- company:
+    name: PreExample Co.
+    url: "https://www.example.com"
+    location: Ninguna
+    logo: /images/sections/experiences/company2.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+    overview: PreExample Co. es una empresa puerta de entrada para ingresar a Example co. Así que, nada especial aquí.
+  positions:
+  - designation: Ingeniero de Software
+    start: Marzo 2016
+    end: Mayo 2017
+    responsibilities:
+    - Escribir muchos códigos de ejemplo.
+    - Leer muchos ejemplos.
+    - Ver muchos videos de ejemplo.
+
+- company:
+    name: Intern Counting Company (ICC).
+    url: "https://www.example.com"
+    location: Tierra de Internos
+    logo: /images/sections/experiences/company3.jpg
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    overview: Intern Counting Company (ICC) es responsable de contar a los Ingenieros internos en todo el mundo.
+  positions:
+  - designation: Interno
+    start: Jun 2015
+    end: Enero 2016
+    responsibilities:
+    - Contar muchos internos.
+    - Contar más internos.
+    - Contarme como un interno.
