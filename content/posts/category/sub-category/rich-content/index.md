@@ -59,8 +59,20 @@ Can’t wait to see you, Madridistas, and thanks for your unbelievable support.
 
 <br><br>
 
-{{< youtube GCdwKhTtNNw >}}
+{{< youtube grAaAblr6jU >}}
+<br><br>
 
+{{< youtube QwmT8YAQWFA >}}
+
+<br><br>
+
+{{< youtube 49kDVB4sHsc >}}
+<br><br>
+
+{{< youtube 3pak4U2RJbE >}}
+<br><br>
+
+{{< youtube XfEd7gEG0Bs >}}
 {{< vs >}}
 
 ### Instagram Post Sample
@@ -87,3 +99,5 @@ Can’t wait to see you, Madridistas, and thanks for your unbelievable support.
 ### Vimeo Video Sample
 
 {{< vimeo 48912912 >}}
+
+

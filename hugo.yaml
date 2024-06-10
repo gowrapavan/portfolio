@@ -176,6 +176,27 @@ params:
         # matomo:
         #   instance: matomo.example.com
         #   siteId: 1 # Or any other number
+    privacy:
+      disqus:
+        disable: false
+      googleAnalytics:
+        disable: false
+        respectDoNotTrack: false
+      instagram:
+        disable: false
+        simple: false
+      twitter:
+        disable: false
+        enableDNT: false
+        simple: false
+      vimeo:
+        disable: false
+        enableDNT: false
+        simple: false
+      youtube:
+        disable: false
+        privacyEnhanced: false
+
 
     # Enable Support
     support:
