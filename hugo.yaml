@@ -161,12 +161,13 @@ params:
 
     # Enable Analytics
     analytics:
-          enable: true
-          services:
-          # Matomo / Piwik
-            matomo:
-              instance: https://gowranetlifyapp.matomo.cloud/
-              siteId: 1 # The number generated after adding a site in your instance
+         enable: true
+         services:
+             # Umami Analytics
+            umami:
+               scheme: https
+               instance: cloud.umami.is
+               id: d2c680da-a234-454d-9952-8009e3d87ab2
 
 
 
