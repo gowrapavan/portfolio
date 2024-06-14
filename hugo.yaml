@@ -161,41 +161,17 @@ params:
 
     # Enable Analytics
     analytics:
-      enable: true
-      services:
-        # Google Analytics
-        google:
-          id: G-HG7S6G03M3
-        # # CounterDev
-        # counterDev:
-        #   id: <your counterdev id>
-        # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
-        # # Matomo / Piwik
-        # matomo:
-        #   instance: matomo.example.com
-        #   siteId: 1 # Or any other number
-         <!-- Google tag (gtag.js) -->
-           <script async src="https://www.googletagmanager.com/gtag/js?id=G-HG7S6G03M3"></script>
-           <script>
-             window.dataLayer = window.dataLayer || [];
-             function gtag(){dataLayer.push(arguments);}
-             gtag('js', new Date());
-           
-             gtag('config', 'G-HG7S6G03M3');
-           </script>
-
-
-
-        analytics:
           enable: true
           services:
-    # Matomo / Piwik
+          # Matomo / Piwik
             matomo:
               instance: https://gowranetlifyapp.matomo.cloud/
-
               siteId: 1 # The number generated after adding a site in your instance
+
+
+
+        
+
     privacy:
       disqus:
         disable: false
