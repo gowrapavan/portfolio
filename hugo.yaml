@@ -166,7 +166,7 @@ params:
              # Umami Analytics
             umami:
                scheme: https
-               instance: cloud.umami.is
+               instance: us.umami.is
                id: d2c680da-a234-454d-9952-8009e3d87ab2
 
 
