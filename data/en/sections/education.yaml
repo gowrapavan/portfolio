@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Academics
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -90,10 +90,10 @@ degrees:
     # darklogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 5
+    achieved: 2.8
     outOf: 5
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Participated in school science fairs and exhibitions to develop a practical understanding of scientific concepts.
+  - Engaged in inter-school sports competitions, fostering teamwork and physical fitness.
+  - Member of the school's literary club, contributing to and editing the annual school magazine.
+  - Attended workshops and seminars on environmental awareness and conservation.

@@ -178,6 +178,25 @@ section A section
   Future task2               :         des4, after des3, 5d
 {{< /mermaid >}}
 
+
+
+
+{{< mermaid >}}
+gantt
+    title  A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2024-06-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2024-07-01  , 12d
+    another task     : 24d
+    
+{{< /mermaid >}}
+
+
+
+
 **Class Diagram:**
 
 {{< mermaid >}}

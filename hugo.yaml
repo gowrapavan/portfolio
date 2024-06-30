@@ -169,6 +169,12 @@ params:
                instance: us.umami.is
                id: d2c680da-a234-454d-9952-8009e3d87ab2
 
+    analytics:
+      enable: true
+      services:
+        counterDev:
+          id: 1281428f-b464-487b-8a0d-bdcbc99ad98b
+    
 
 
         
