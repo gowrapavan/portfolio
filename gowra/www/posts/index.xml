@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gowra&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Gowra&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>Introduction Hey there! 👋 I&amp;rsquo;m Gowra Pavan Kumar, currently working as a Software Engineer at KHIT. My journey into the world of technology has been fueled by a deep passion for programming and web development.
+Professional Background I am actively involved in exploring programming languages such as C and Python, where I enjoy tackling challenges in data structures and algorithms. My interest in web development has led me to experiment with HTML, CSS, and JavaScript, crafting dynamic and user-friendly web applications.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Samples</title>
+      <link>http://localhost:1313/posts/markdown-sample/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/markdown-sample/</guid>
+      <description>This is a sample post intended to test the followings:
+A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Samples</title>
+      <link>http://localhost:1313/posts/shortcodes/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/shortcodes/</guid>
+      <description>This is a sample post intended to test the followings:
+Default hero image. Different shortcodes. Alert The following alerts are available in this theme.
+This is sample alert with type=&amp;quot;success&amp;quot;. This is sample alert with type=&amp;quot;danger&amp;quot;. This is sample alert with type=&amp;quot;warning&amp;quot;. This is sample alert with type=&amp;quot;info&amp;quot;. This is sample alert with type=&amp;quot;dark&amp;quot;. This is sample alert with type=&amp;quot;primary&amp;quot;. This is sample alert with type=&amp;quot;secondary&amp;quot;. Image A sample image without any attribute.</description>
+    </item>
+    
+    <item>
+      <title>Sports and Hobby</title>
+      <link>http://localhost:1313/posts/category/sub-category/rich-content/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/category/sub-category/rich-content/</guid>
+      <description>This sample post tests the followings:
+Category, sub-category nesting in the sidebar. Hero image and other images are in images folder inside this post directory. Different media rendering like image, tweet, YouTube video, Vimeo video etc. Like a symphony conductor weaving through melodies, a football player navigating the pitch, a film enthusiast deciphering narratives, and a programmer coding intricate webs of logic, I immerse myself in the diverse tapestry of passions, each thread adding depth and richness to the fabric of my existence.</description>
+    </item>
+    
+    <item>
+      <title>DR KLP PUBLIC SCHOOL</title>
+      <link>http://localhost:1313/posts/education/school/klp/</link>
+      <pubDate>Fri, 12 Apr 2019 06:00:20 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/education/school/klp/</guid>
+      <description>About Dr. Kondabolu Lakshmi Prasad Public School, Guntur Dr. Kondabolu Lakshmi Prasad Public School, also known as Dr. KLP Public School, was established in 1983. It is managed by the Nagarjuna Education Society and is affiliated with the Central Board of Secondary Education (CBSE).
+School Information Year of Establishment 1983 School Area 12,485 Sq. Metres Parent Institution Nagarjuna Education Society Academics Affiliation: CBSE Streams Offered: PCM, PCB &amp;amp; Arts Medium(s) of Instruction: English Classes: Nursery to 12th Gender: Co-Ed Residential Status: Boarding School No.</description>
+    </item>
+    
+    <item>
+      <title>NARAYANA JR. COLLEGE </title>
+      <link>http://localhost:1313/posts/education/intermidiate/narayana/</link>
+      <pubDate>Fri, 12 Apr 2019 06:00:20 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/education/intermidiate/narayana/</guid>
+      <description>About NARAYANA JR. COLLEGE BRUNDAVAN GARDEN GUNTUR NARAYANA JR. COLLEGE BRUNDAVAN GARDEN GUNTUR was established in 2012 and it is managed by the Pvt. Unaided. It is located in an Urban area within the GUNTUR block of GUNTUR district, ANDHRA PRADESH. The school offers Grades 11 to 12 and is Co-educational. It doesn&amp;rsquo;t have an attached pre-primary section. The school is not using a school building as a shift-school. English is the medium of instruction.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

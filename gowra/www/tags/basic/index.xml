@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Gowra&#39;s Blog</title>
+    <link>http://localhost:1313/tags/basic/</link>
+    <description>Recent content in Basic on Gowra&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="http://localhost:1313/tags/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>Introduction Hey there! 👋 I&amp;rsquo;m Gowra Pavan Kumar, currently working as a Software Engineer at KHIT. My journey into the world of technology has been fueled by a deep passion for programming and web development.
+Professional Background I am actively involved in exploring programming languages such as C and Python, where I enjoy tackling challenges in data structures and algorithms. My interest in web development has led me to experiment with HTML, CSS, and JavaScript, crafting dynamic and user-friendly web applications.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

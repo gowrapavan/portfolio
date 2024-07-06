@@ -74,6 +74,11 @@ enableEmoji: true
 
 # Site parameters
 params:
+  enableServiceWorker: true
+  enableManifest: true
+  serviceWorkerScope: "/"
+  manifest: "/manifest.json"
+
   # Background image of the landing page
   background: /images/site/background.jpg
 

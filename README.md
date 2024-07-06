@@ -5,3 +5,4 @@
 This repository contains the source code for my personal portfolio, showcasing my projects, skills, and blog posts on technology and programming. Built with Hugo for easy customization and management.
 
 
+javac -version
