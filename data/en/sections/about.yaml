@@ -63,7 +63,7 @@ resourceLinks:
 - title: "My Resume"
   url: "files/pavan_resume.pdf"
 - title: "Download APK"
-  url: "files/Gowra.apk"
+  url: "https://github.com/gowrapavan/gowrapavan.github.io/releases/download/v1.0.0/Gowra.apk"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
