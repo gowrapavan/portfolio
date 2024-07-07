@@ -62,6 +62,8 @@ socialLinks:
 resourceLinks:
 - title: "My Resume"
   url: "files/pavan_resume.pdf"
+- title: "Download APK"
+  url: "files/Gowra.apk"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
