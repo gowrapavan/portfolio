@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="netlify.app.gowra" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="netlify.app.gowra" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Gowra</name>
     <description>A Hugo PWA wrapped as a native app</description>
     <author email="gowrapavankumar2004@example.com" href="https://gowra.netlify.app">Your Name</author>
