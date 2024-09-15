@@ -54,12 +54,56 @@ categories: ["Achievements", "Downloads"]
 </style>
 
 ## Download Your Certificates
+<a href="/static/files/ML_PYTHON.pdf" download>Download Google Android Certificate</a>
+<a href="/files/MI_PYTHON.pdf" download>Download Python Certificate</a>
+<div class="certificate-row">
+  <span class="certificate-name">Google Android Developer Certificate</span>
+  <a href="/files/G_ANDROID.pdf" target="_blank">
+    <button class="cssbuttons-io-button">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        width="24"
+        height="24"
+      >
+        <path fill="none" d="M0 0h24v24H0z"></path>
+        <path
+          fill="currentColor"
+          d="M1 14.5a6.496 6.496 0 0 1 3.064-5.519 8.001 8.001 0 0 1 15.872 0 6.5 6.5 0 0 1-2.936 12L7 21c-3.356-.274-6-3.078-6-6.5zm15.848 4.487a4.5 4.5 0 0 0 2.03-8.309l-.807-.503-.12-.942a6.001 6.001 0 0 0-11.903 0l-.12.942-.805.503a4.5 4.5 0 0 0 2.029 8.309l.173.013h9.35l.173-.013zM13 12h3l-4 5-4-5h3V8h2v4z"
+        ></path>
+      </svg>
+      <span>View/Download</span>
+    </button>
+  </a>
+</div>
+
+<div class="certificate-row">
+  <span class="certificate-name">Python Certificate</span>
+  <a href="ML_PYTHON.pdf" target="_blank">
+    <button class="cssbuttons-io-button">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        width="24"
+        height="24"
+      >
+        <path fill="none" d="M0 0h24v24H0z"></path>
+        <path
+          fill="currentColor"
+          d="M1 14.5a6.496 6.496 0 0 1 3.064-5.519 8.001 8.001 0 0 1 15.872 0 6.5 6.5 0 0 1-2.936 12L7 21c-3.356-.274-6-3.078-6-6.5zm15.848 4.487a4.5 4.5 0 0 0 2.03-8.309l-.807-.503-.12-.942a6.001 6.001 0 0 0-11.903 0l-.12.942-.805.503a4.5 4.5 0 0 0 2.029 8.309l.173.013h9.35l.173-.013zM13 12h3l-4 5-4-5h3V8h2v4z"
+        ></path>
+      </svg>
+      <span>View/Download</span>
+    </button>
+  </a>
+</div>
+
 
 Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Google Android Developer Certificate</span>
-  <a href="/files/G_ANDROID.pdf" download>
+  <a href="ML_PYTHON.pdf" download>
     <button class="cssbuttons-io-button">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -80,7 +124,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Python Certificate</span>
-  <a href="/files/MI_PYTHON.pdf" download>
+    <a href="ML_PYTHON.pdf" download>
     <button class="cssbuttons-io-button">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -104,7 +148,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Cyber Security Certificate (Cisco)</span>
-  <a href="/static/files/GOWRAPAVAN_CYBER_SECURITY_CISCO.pdf" download>
+  <a href="GOWRAPAVAN_CYBER_SECURITY_CISCO.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -117,7 +161,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Cyber Security Certificate (Shekar)</span>
-  <a href="/static/files/GOWRAPAVAN_CYBER_SECURITY_SHEKAR.pdf" download>
+  <a href="GOWRAPAVAN_CYBER_SECURITY_SHEKAR.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -130,7 +174,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Introduction to Cyber Security (Cisco)</span>
-  <a href="/static/files/GOWRAPAVAN_INTRO_TO_CYBER_SECURITY_CISCO.pdf" download>
+  <a href="GOWRAPAVAN_INTRO_TO_CYBER_SECURITY_CISCO.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -143,7 +187,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Introduction to Cyber Security (Shekar)</span>
-  <a href="/static/files/GOWRAPAVAN_INTRO_TO_CYBER_SECURITY_SHEKAR.pdf" download>
+  <a href="GOWRAPAVAN_INTRO_TO_CYBER_SECURITY_SHEKAR.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -156,7 +200,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Network Essentials (Cisco)</span>
-  <a href="/static/files/GOWRAPAVAN_NETWORK_ESSENTIAL_CISCO.pdf" download>
+  <a href="GOWRAPAVAN_NETWORK_ESSENTIAL_CISCO.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -169,7 +213,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Network Essentials (Shekar)</span>
-  <a href="/static/files/GOWRAPAVAN_NETWORK_ESSENTIAL_SHEKHAR.pdf" download>
+  <a href="GOWRAPAVAN_NETWORK_ESSENTIAL_SHEKHAR.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -182,7 +226,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Packet Tracer (Cisco)</span>
-  <a href="/files/GOWRAPAVAN_PACKET_TRACER_CISCO.pdf" download>
+  <a href="GOWRAPAVAN_PACKET_TRACER_CISCO.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -195,7 +239,7 @@ Here are all my certificates, available for download:
 
 <div class="certificate-row">
   <span class="certificate-name">Packet Tracer (Shekar)</span>
-  <a href="/files/GOWRAPAVAN_PACKET_TRACER_SHAKER.pdf" download>
+  <a href="GOWRAPAVAN_PACKET_TRACER_SHAKER.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
