@@ -2,6 +2,7 @@
 title: "Confidential Certificates"
 date: 2024-09-13T10:00:00+06:00
 description: "Download Highly confidential certificates of Gowra Pavan Kumar."
+hero: /gov.png
 menu:
   sidebar:
     name: "Confidential Certificates"
@@ -33,7 +34,6 @@ categories: ["Achievements", "Downloads"]
     </form>
   </div>
 </div>
-
 
 
 <script>
@@ -231,8 +231,16 @@ Developed and deployed a blog using Hugo and created a corresponding mobile appl
 Below you can download the important government identity documents of Gowra Pavan Kumar. Click on the document names to download the corresponding PDFs.
 
 <div class="document-row">
-  <span class="document-name">Aadhar Card</span>
-  <a href="../demo/AADHAR.pdf" download>
+  <span class="document-name">Aadhaar ID</span>
+  <p class="document-content">Name: గౌర పవన్ కుమార్ (Gowra Pavan Kumar)</p>
+  <p class="document-content">C/O G Koteswara Rao, 25-24-18, GADDI MALLU OTH LINE BESIDE HOLY CHURCH, KRISHNA BABU COLONY, VTC. Guntur, Andhra Pradesh, PIN Code: 522004</p>
+  <p class="document-content">Mobile: 9959953084</p>
+  <p class="document-content">Aadhaar No.: 6893 3762 0064</p>
+  <p class="document-content">Date of Birth (DOB): 01/05/2004</p>
+  <p class="document-content">Gender: Male</p>
+  <p class="document-content">Issue Date: 27/10/2011</p>
+
+  <a href="pavan-aadhar.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -241,36 +249,64 @@ Below you can download the important government identity documents of Gowra Pava
       <span>Download</span>
     </button>
   </a>
-  <p class="document-content">The Aadhar Card serves as a primary identification document in India.</p>
-  <p class="document-content">It includes a unique identification number issued by the UIDAI.</p>
-  <p class="document-content">The card is used for various purposes including verification of identity.</p>
 </div>
+
 
 <div class="document-row">
   <span class="document-name">PAN Card</span>
-  <a href="../demo/PAN.pdf" download>
-    <button class="cssbuttons-io-button">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-        <path fill="none" d="M0 0h24v24H0z"></path>
-        <path fill="currentColor" d="M1 14.5a6.496 6.496 0 0 1 3.064-5.519 8.001 8.001 0 0 1 15.872 0 6.5 6.5 0 0 1-2.936 12L7 21c-3.356-.274-6-3.078-6-6.5zm15.848 4.487a4.5 4.5 0 0 0 2.03-8.309l-.807-.503-.12-.942a6.001 6.001 0 0 0-11.903 0l-.12.942-.805.503a4.5 4.5 0 0 0 2.029 8.309l.173.013h9.35l.173-.013zM13 12h3l-4 5-4-5h3V8h2v4z"></path>
-      </svg>
-      <span>Download</span>
-    </button>
-  </a>
-  <p class="document-content">The PAN Card is a vital document for tax purposes in India.</p>
-  <p class="document-content">It helps in tracking financial transactions and tax payments.</p>
-  <p class="document-content">This card is issued by the Income Tax Department of India.</p>
-</div>
 
-<div class="document-row">
-  <span class="document-name">10th Certificate</span>
-  The 10th Certificate was awarded by the Central Board of Secondary Education, reflecting the completion of secondary education at Dr. Kondabolu Lakshmi Prasad Public School, JKC College Rd, Navabharath Nagar, Guntur, Andhra Pradesh, India, in the year 2019, with a score of 6.5.<br>
+  <p class="document-content">INCOME TAX DEPARTMENT</p>
+  <p class="document-content">Permanent Account Number Card</p>
+  <p class="document-content">PAN: FMMPP3819P</p>
+  <p class="document-content">Name: GOWRA PAVAN KUMAR</p>
+  <p class="document-content">Father's Name: GOWRA KOTESWARA RAO</p>
+  <p class="document-content">Date of Birth: 01/05/2004</p>
   
-  <p class="document-content">The 10th Certificate is essential for verifying completion of secondary education.</p>
-  <p class="document-content">It contains details of subjects and overall performance.</p>
-  <p class="document-content">This certificate is often required for further educational admissions.</p>
+  <a href="pavan-PAN.pdf" download>
+    <button class="cssbuttons-io-button">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="none" d="M0 0h24v24H0z"></path>
+        <path fill="currentColor" d="M1 14.5a6.496 6.496 0 0 1 3.064-5.519 8.001 8.001 0 0 1 15.872 0 6.5 6.5 0 0 1-2.936 12L7 21c-3.356-.274-6-3.078-6-6.5zm15.848 4.487a4.5 4.5 0 0 0 2.03-8.309l-.807-.503-.12-.942a6.001 6.001 0 0 0-11.903 0l-.12.942-.805.503a4.5 4.5 0 0 0 2.029 8.309l.173.013h9.35l.173-.013zM13 12h3l-4 5-4-5h3V8h2v4z"></path>
+      </svg>
+      <span>Download</span>
+    </button>
+  </a>
+</div>
 
-  <a href="../demo/10TH_CERTIFICATE.pdf" download>
+
+
+<div class="document-row">
+  <span class="document-name">ABC ID</span>
+  <p class="document-content">Digitally signed on 13/09/2024 00:04:29 IST</p>
+  <p class="document-content">ACADEMIC BANK OF CREDITS</p>
+  <p class="document-content">Ministry of Education, Government of India</p>
+  <p class="document-content">Name: Gowra Pavan Kumar</p>
+  <p class="document-content">Date of Birth: 01/05/2004</p>
+  <p class="document-content">Gender: Male</p>
+  <p class="document-content">APAAR ID: 191124779161</p>
+
+  <a href="Pavan_ABC_ID.pdf" download>
+    <button class="cssbuttons-io-button">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="none" d="M0 0h24v24H0z"></path>
+        <path fill="currentColor" d="M1 14.5a6.496 6.496 0 0 1 3.064-5.519 8.001 8.001 0 0 1 15.872 0 6.5 6.5 0 0 1-2.936 12L7 21c-3.356-.274-6-3.078-6-6.5zm15.848 4.487a4.5 4.5 0 0 0 2.03-8.309l-.807-.503-.12-.942a6.001 6.001 0 0 0-11.903 0l-.12.942-.805.503a4.5 4.5 0 0 0 2.029 8.309l.173.013h9.35l.173-.013zM13 12h3l-4 5-4-5h3V8h2v4z"></path>
+      </svg>
+      <span>Download</span>
+    </button>
+  </a>
+</div>
+
+
+
+<div class="document-row">
+  <span class="document-name">10th CERTIFICATE </span>
+  
+  <p class="document-content">This is to certify that PAVAN KUMAR GOWRA, Roll No. 4143933,</p>
+<p class="document-content">son of KOTESWARA RAO and NAGA LAXMI, born on 1st May 2004 (01/05/2004),</p>
+<p class="document-content">has successfully completed his secondary education at DR K L PRASAD PUB SCHOOL, Ring Road, Guntur, Andhra Pradesh (School Code: 40031).</p>
+
+
+  <a href="PAVAN_10TH_CERTIFICATE.pdf" download>
     <button class="cssbuttons-io-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
         <path fill="none" d="M0 0h24v24H0z"></path>
@@ -282,7 +318,7 @@ Below you can download the important government identity documents of Gowra Pava
 </div>
 
 <div class="document-row">
-  <span class="document-name">Intermediate Certificate</span>
+  <span class="document-name">INTERMEDIATE CERTIFICATE</span>
   <p class="document-content">The Intermediate Certificate represents the completion of higher secondary education at Narayana Junior College, Guntur, Andhra Pradesh, India, in the stream of MPC   (Mathematics, Physics, Chemistry), completed in the year 2021, with a score of 7.8.</p>
   <p class="document-content">The Intermediate Certificate signifies the completion of higher secondary education.</p>
   <p class="document-content">It details the academic stream and the marks obtained.</p>
