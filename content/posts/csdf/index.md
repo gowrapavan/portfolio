@@ -112,42 +112,105 @@ An **attack vector** is a path or means by which a hacker can gain unauthorized 
 
 ## Unit 2: Cybercrimes & Attacks
 
-### **A.i. Phishing: How It Works and Types of Phishing**
+<style>
+  body {
+    letter-spacing: 0.05em; /* Adjust this value for desired spacing */
+  }
+</style>
 
-**Phishing** is a technique used to obtain sensitive information like usernames, passwords, and credit card details by masquerading as a trustworthy entity.
+# Cybersecurity Questions and Answers
 
-#### **Types of Phishing:**
-- **Spear Phishing**: Targeted attacks on specific individuals.
-- **Clone Phishing**: Using cloned versions of legitimate emails.
+## A.i) What is Phishing? How does it work? Types of Phishing?
 
----
+**Phishing** is a cyberattack where attackers impersonate trustworthy entities to steal sensitive information.
 
-### **A.ii. Password Cracking and Its Types**
+### How Phishing Works:
+1. **Bait**: Fraudulent messages (often emails) from fake sources.
+2. **Hook**: Victims click malicious links or download malware.
+3. **Compromise**: Sensitive info is submitted unknowingly.
 
-Password cracking involves gaining unauthorized access to systems by guessing or recovering passwords.
-
-| Type | Description |
-|------|-------------|
-| **Brute Force** | Trying all possible combinations |
-| **Dictionary Attack** | Using pre-defined wordlists |
-
----
-
-### **B.i. How Keyloggers Operate**
-
-Keyloggers record every keystroke made on a device to capture sensitive information like passwords.
-
-**Example**: Keyloggers are used in cyber-attacks to steal credentials.
+### Types of Phishing:
+- **Spear Phishing**: Targeted attacks on individuals/organizations.
+- **Clone Phishing**: Duplicate legitimate emails with malicious links.
+- **Whaling**: Targeting high-profile individuals (e.g., executives).
+- **Smishing**: Phishing via SMS.
+- **Vishing**: Voice phishing via phone calls.
 
 ---
 
-### **B.ii. Spyware and Its Impact**
+## A.ii) Define Password Cracking and its Types.
 
-**Spyware** is malicious software designed to gather data from a device without the user's knowledge.
+**Password Cracking** is recovering passwords from stored or transmitted data.
 
-#### Impact:
-- **Privacy Invasion**: Captures personal data.
-- **System Performance**: Slows down device operations.
+### Types of Password Cracking Attacks:
+- **Brute Force**: Tries all combinations until the password is found.
+- **Dictionary Attack**: Uses a list of common passwords.
+- **Rainbow Table Attack**: Compares hashed passwords to precomputed values.
+- **Phishing**: Directly tricks users into revealing passwords.
+- **Keyloggers**: Captures keystrokes to obtain passwords.
+
+---
+
+## B.i) Describe Keyloggers and their use in cyber-attacks.
+
+**Keyloggers** are malicious programs that record keystrokes.
+
+### How Keyloggers Work:
+- **Software Keyloggers**: Installed on the victim's system.
+- **Hardware Keyloggers**: Physical devices capturing keystrokes.
+
+**Example**: An attacker installs a software keylogger to capture bank login credentials.
+
+---
+
+## B.ii) What is Spyware? Its impact?
+
+**Spyware** gathers user information secretly.
+
+### Impact on Privacy and Performance:
+- **Privacy**: Tracks sensitive data, risking identity theft.
+- **Performance**: Consumes resources, slowing down the system.
+
+---
+
+## C.i) Compare Viruses and Worms.
+
+| Feature         | Virus                                         | Worm                                          |
+|-----------------|-----------------------------------------------|----------------------------------------------|
+| **Replication** | Needs a host to spread                        | Spreads independently                        |
+| **Activation**   | Requires user interaction                     | Spreads automatically                        |
+| **Propagation**  | Infects files or programs                     | Exploits network vulnerabilities             |
+| **Damage**       | Corrupts data, crashes programs               | Consumes network resources                   |
+
+---
+
+## C.ii) What is a DoS attack? Levels and Protection?
+
+**Denial of Service (DoS)** attack makes a system unavailable by overwhelming it with traffic.
+
+### Levels of DoS Attacks:
+- **Application Level**: Targets specific applications (e.g., web servers).
+- **Network Level**: Floods network infrastructure (e.g., routers).
+- **Transport Level**: Exploits protocols like TCP.
+
+### Protection Against DoS/DDoS Attacks:
+- **Firewalls**: Block unnecessary traffic.
+- **Intrusion Detection Systems (IDS)**: Monitor for suspicious activity.
+- **Rate Limiting**: Control request rates.
+- **Redundant Infrastructure**: Use multiple servers to balance traffic.
+
+---
+
+## D.i) What is a Trojan horse and its example?
+
+A **Trojan Horse** is malware disguised as legitimate software.
+
+### Differences from Other Malware:
+- Requires user installation (unlike worms).
+- Disguises as useful programs (unlike viruses).
+
+**Example**: The Zeus Trojan stole banking information by mimicking legitimate software, leading users to install it unknowingly.
+
 
 ---
 
@@ -196,3 +259,138 @@ The **Information Technology Act 2000** was introduced to promote e-commerce and
 Cybersecurity is a critical field that ensures the safety of digital systems. From understanding the motives behind cybercrimes to employing digital forensics, the measures to combat these threats are constantly evolving. By being aware of these challenges, we can better protect our digital assets.
 
 
+### UNIT 3
+
+# Digital Evidence and Cybersecurity
+
+
+## 1. What is Digital Evidence? Explain Key Aspects of Digital Evidence Collection?
+
+   Digital Evidence is information stored or transmitted in digital form that can be used as proof in legal cases. This could be anything from emails and documents to log files and digital photographs. Since much of our communication and transactions happen online, digital evidence has become very important in solving crimes, especially cybercrimes.
+
+   Key Aspects of Digital Evidence Collection:
+
+   - **Identification:** First, investigators need to figure out where to look for evidence. This can be computers, mobile devices, cloud storage, or even networks.
+   - **Preservation:** Once evidence is identified, it must be kept safe to prevent tampering. This is usually done by creating exact copies (forensic images) of the original data.
+   - **Collection:** The evidence is collected carefully, making sure that it follows legal procedures to ensure it’s admissible in court.
+   - **Examination:** Investigators then analyze the data to find useful information, such as hidden files, deleted information, or encrypted data.
+   - **Documentation:** Throughout the process, everything is documented to ensure the evidence can be trusted. This helps in showing how the evidence was handled.
+   - **Presentation:** Finally, the evidence needs to be presented in a clear and understandable way to legal professionals or in court.
+
+
+   
+
+## 2. What is the significance of Investigation Tools? Classification of Investigation Tools?
+
+   Investigation tools are essential in helping digital forensic experts gather, analyze, and present evidence. They ensure that the evidence is accurate and handled properly.
+
+   Why are these tools important?
+
+   - They make the collection of digital evidence faster and more reliable.
+   - They ensure that evidence is not changed or corrupted during the investigation.
+   - Different tools can uncover hidden or deleted data that may be crucial in solving a case.
+
+   Types of Investigation Tools:
+
+   - **Disk Imaging Tools:** These tools help make an exact copy of the data from storage devices like hard drives. This allows investigators to work with the copy without risking damage to the original.
+   - **Network Forensic Tools:** These tools capture and examine network traffic to identify suspicious activities or data transfers.
+   - **Mobile Forensic Tools:** These are used to extract data from smartphones and tablets, such as messages, call logs, or location data.
+   - **Memory Forensics Tools:** Used to capture and analyze what’s currently happening in a computer’s memory (RAM), which can reveal active processes or running malware.
+   - **Password Cracking Tools:** These are used to recover or break passwords that protect files or systems.
+   - **Malware Analysis Tools:** These tools allow experts to study malicious software in a controlled environment to understand how it works.
+
+
+   
+
+## 3. What is eDiscovery? Explain Key Components of eDiscovery?
+
+   eDiscovery, or electronic discovery, is the process of identifying and collecting digital data that can be used as evidence in legal cases. This process is commonly used in lawsuits, investigations, or regulatory inquiries where digital data is crucial.
+
+   Key Components:
+
+   - **Identification:** Finding out which digital information is relevant to the case, whether it’s emails, documents, or database records.
+   - **Preservation:** Safeguarding the identified data to ensure it is not altered or deleted.
+   - **Collection:** Gathering the data from its sources, such as hard drives, servers, or cloud storage.
+   - **Processing:** Sorting through the data to remove anything irrelevant to the case and preparing it for review.
+   - **Review:** Analyzing the remaining data to determine what should be used in court or negotiations.
+   - **Production:** Presenting the data in a format that can be used by lawyers, investigators, and courts.
+
+
+   
+
+## 4. What is Email Tracking in Cybersecurity? Techniques Used in Email Tracking?
+
+   Email Tracking in cybersecurity helps in monitoring whether an email has been opened or interacted with. This is often used in both marketing and cybersecurity fields to understand how people are engaging with emails or to track potential phishing attacks.
+
+   Techniques Used:
+
+   - **Tracking Pixels:** Small invisible images embedded in emails that notify the sender when the email is opened.
+   - **Read Receipts:** These are requests for the recipient to confirm when they open the email.
+   - **Link Click Tracking:** This monitors whether the recipient clicked on any links in the email and can provide information on where they went after clicking.
+   - **IP Address Tracking:** Tracks the IP address used when opening the email, giving insight into the recipient’s location or device.
+   - **Delivery Notifications:** These show whether the email reached its intended recipient or was blocked by spam filters.
+
+
+   
+
+## 5. What is the Purpose of IP Tracking? Key Features of IP Tracking Tools?
+
+   IP Tracking is used to follow the activity or location associated with a specific IP address. In cybersecurity, it helps in identifying where attacks come from or tracing suspicious activities.
+
+   Key Features of IP Tracking Tools:
+
+   - **Geo-Location:** Identifying the geographical location (country, city, region) of an IP address.
+   - **Real-Time Monitoring:** Providing live updates on the actions performed by the IP address, such as visiting websites.
+   - **Blacklist Checking:** Checking whether an IP address has been marked as malicious or has been involved in spamming, phishing, or other illegal activities.
+   - **Historical Tracking:** Viewing the past activities associated with the IP address.
+   - **Alert Systems:** Sending notifications when suspicious activity is detected from the tracked IP address.
+
+
+   
+
+## 6. What are the Methods for Recovering Deleted Evidence?
+
+   Recovering deleted evidence is a critical task in digital forensics, especially when criminals try to cover their tracks by deleting files or data.
+
+   Methods:
+
+   - **Data Carving:** This technique looks for known file signatures and reconstructs files even if the metadata (like file name or directory) is lost.
+   - **Disk Imaging:** Creating an exact copy of a storage device, investigators can work on the copy to recover deleted files.
+   - **Unallocated Space Scanning:** Even if files are deleted, parts of them may remain in the unallocated space of the storage device and can be recovered.
+   - **File Signature Analysis:** Searching for specific patterns that match known file types, even if the file system metadata is missing.
+   - **RAM Analysis:** Volatile memory (RAM) may hold valuable information about recently used files or applications, even after deletion from storage.
+
+
+   
+
+## 7. What are the Key Principles and Steps of Evidence Preservation?
+
+   Preserving digital evidence is a fundamental part of an investigation, ensuring that the data is not altered or damaged during the process.
+
+   Key Principles:
+
+   - **Chain of Custody:** Keeping detailed records of how evidence was handled, who accessed it, and how it was stored. This ensures that the integrity of the evidence can be trusted in court.
+   - **Data Integrity:** Preventing any changes or alterations to the evidence. This is often done by creating forensic copies or using write-blockers.
+   - **Proper Storage:** Storing evidence in a safe and secure environment where only authorized personnel can access it.
+
+   Steps:
+
+   - **Identify and Secure Evidence:** Identify digital evidence and ensure it is protected from tampering or unauthorized access.
+   - **Document Everything:** Keep detailed records of how and where the evidence was collected.
+   - **Create Forensic Copies:** Make exact copies of the evidence for analysis while preserving the original.
+   - **Store Securely:** Store the evidence in a controlled, secure environment.
+   - **Access Control:** Restrict who can access the evidence and log every action taken with the data.
+
+
+   
+
+## 8. What are Encryption and Decryption Methods? What is their Significance?
+
+   Encryption and decryption are key techniques in securing digital data. Encryption converts data into a coded format, making it unreadable without the correct decryption key. Decryption is the process of converting the coded data back to its original form.
+
+   Significance:
+
+   - **Data Security:** Encryption protects sensitive data from unauthorized access, especially during transmission over the internet.
+   - **Confidentiality:** It ensures that only the intended recipient can read the information.
+   - **Integrity:** By encrypting data, it prevents unauthorized parties from tampering with the data.
+   - **Authentication:** Encryption can also be used to verify the identity of the parties involved in communication.
