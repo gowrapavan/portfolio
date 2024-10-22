@@ -65,6 +65,13 @@ resourceLinks:
 - title: "Download APK"
   url: "https://github.com/gowrapavan/gowrapavan.github.io/releases/download/v1.0.0/Gowra.apk"
 
+
+resourceLinks:
+- title: "My Resume"
+  url: "files/Gowra.pdf"
+- title: "Download APK"
+  url: "https://hci-design-101-x7dqum0.gamma.site/"
+
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
