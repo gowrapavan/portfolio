@@ -179,6 +179,12 @@ params:
       services:
         counterDev:
           id: 1281428f-b464-487b-8a0d-bdcbc99ad98b
+    analytics:
+      enable: true
+      services:
+    # Google Analytics
+        google:
+          id: G-HG7S6G03M3
     
 
 
