@@ -1,7 +1,7 @@
 ---
 title: "api"
 date: 2024-09-13T10:00:00+06:00
-description: "Movies by Gowra Pavan "
+description: "Movies by the Gowra Pavan "
 menu:
   sidebar:
     name: "api"
