@@ -16,6 +16,9 @@ This is a sample post intended to test the followings:
 - Default hero image.
 - Different shortcodes.
 
+
+<iframe id="videoFrame" src="https://www.2embed.cc/embed/tt29623480?autoplay=1&mute=0&cc_load_policy=1" width="100%" height="616px" scrolling="no" allow="autoplay" allowfullscreen></iframe>
+
 ## Alert
 
 The following alerts are available in this theme.
